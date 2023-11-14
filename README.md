@@ -1,8 +1,7 @@
 ![logo](https://github.com/Rohit301096/Rohit301096/blob/main/COMPUTER%20SCIENCE%20ENGINEER%20AND%20DATA%20ANALYST.png)
 <h1 align="center">Hi 👋, I'm Rohit kumar</h1>
 <h3 align="center">A passionate Software Engineer and a Data Analyst</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Rohit301096/Rohit301096/assets/150213914/ec0d755c-69e1-4cd1-ae52-2aa71481f310)
-">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.imarticus.org%2Fdo-you-need-a-phd-to-be-a-data-scientist%2F&psig=AOvVaw05QXkdjWztLFuiogDFL0k-&ust=1700079860249000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDhnJOpxIIDFQAAAAAdAAAAABAS">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
